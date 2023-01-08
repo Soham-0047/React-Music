@@ -2,7 +2,8 @@
 
 Develop an elegant React.js Music Application. 
 
-
+## Project Image
+![img](./src/assets/img.png)
 
 ## System Requirements
 
