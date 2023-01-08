@@ -42,19 +42,7 @@ To get started with development, you need to install few tools
 
 To set up a development environment, please follow these steps:
 
-1. Clone the repo
-
-   ```shell
-    git clone https://github.com/JavaScript-Mastery-PRO/project1_team4_repository.git
-   ```
-
-2. Change directory to the project directory
-
-    ```shell
-    cd project1_team4_repository
-    ```
-
-3. Install the dependencies
+ Install the dependencies
    
     ```shell
      npm install
@@ -64,7 +52,7 @@ To set up a development environment, please follow these steps:
 
     If you don't get an error, you are ready to start development.
 
-4. Run the app
+ Run the app
    
     ```shell
     npm run dev
